@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.crpteam.cfms_client_tauri",
+      "sha256_cert_fingerprints": [
+        "FC:98:E9:5F:FF:A9:B6:3F:91:46:5A:FA:E6:C4:80:6E:35:E0:79:ED:84:88:5D:1B:36:A2:D2:6D:CA:C6:3A:A2"
+      ]
+    }
+  }
+]
